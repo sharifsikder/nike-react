@@ -1,0 +1,25 @@
+
+body, h1, span, a, h2, h3, h4, h5, h6, p, button {
+    font-family: 'Nunito', sans-serif;
+}
+.background{
+    background-color: #FFF9F4;
+    ;
+}
+.font{
+    font-weight: 600 !important;
+}
+.card{
+    border:0px !important;
+    margin:0 auto !important;
+    margin-bottom: 40px !important;
+}
+.img{
+    background-color: #F1F1F1 !important;
+    border-radius: 8px !important;
+    margin-top: 10px!important;
+    height: 311px!important;
+}
+.bold{
+    font-weight: 600 !important;
+}
